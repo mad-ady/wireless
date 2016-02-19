@@ -1,0 +1,120 @@
+Network 23: BSSID 00:16:6D:3C:D7:22
+ Manuf      : YulongCo
+ First      : Fri Feb 19 13:29:43 2016
+ Last       : Fri Feb 19 13:29:43 2016
+ Type       : probe
+ BSSID      : 00:16:6D:3C:D7:22
+ Channel    : 0
+ Frequency  : 2422 - 19 packets, 95.00%
+ Frequency  : 2442 - 1 packets, 5.00%
+ Max Seen   : 1000
+ LLC        : 20
+ Data       : 0
+ Crypt      : 0
+ Fragments  : 0
+ Retries    : 0
+ Total      : 20
+ Datasize   : 0
+ Last BSSTS : 0
+    Seen By : mon0 (mon0) 4446e22a-d6fa-11e5-8a74-a70323187a01 20 packets
+              Fri Feb 19 13:29:43 2016
+ Client 1: MAC 00:16:6D:3C:D7:22
+  Manuf      : YulongCo
+  First      : Fri Feb 19 13:29:43 2016
+  Last       : Fri Feb 19 13:29:43 2016
+  Type       : To Distribution
+  MAC        : 00:16:6D:3C:D7:22
+   SSID 1
+    Type       : Probe Request
+    SSID       : <cloaked>
+    First      : Fri Feb 19 13:29:43 2016
+    Last       : Fri Feb 19 13:29:43 2016
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 2
+    Type       : Probe Request
+    SSID       : 101
+    First      : Fri Feb 19 13:29:43 2016
+    Last       : Fri Feb 19 13:29:43 2016
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 3
+    Type       : Probe Request
+    SSID       : ASUS
+    First      : Fri Feb 19 13:29:43 2016
+    Last       : Fri Feb 19 13:29:43 2016
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 4
+    Type       : Probe Request
+    SSID       : ORCBwifi
+    First      : Fri Feb 19 13:29:43 2016
+    Last       : Fri Feb 19 13:29:43 2016
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 5
+    Type       : Probe Request
+    SSID       : HAI-LA-MECI
+    First      : Fri Feb 19 13:29:43 2016
+    Last       : Fri Feb 19 13:29:43 2016
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 6
+    Type       : Probe Request
+    SSID       : Carrefour WiFi
+    First      : Fri Feb 19 13:29:43 2016
+    Last       : Fri Feb 19 13:29:43 2016
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 7
+    Type       : Probe Request
+    SSID       : Romexpo_WiFi_Free
+    First      : Fri Feb 19 13:29:43 2016
+    Last       : Fri Feb 19 13:29:43 2016
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 8
+    Type       : Probe Request
+    SSID       : DIGI WIFI 2.4 Web Login
+    First      : Fri Feb 19 13:29:43 2016
+    Last       : Fri Feb 19 13:29:43 2016
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+   SSID 9
+    Type       : Probe Request
+    SSID       : HP-Print-3b-LaserJet 400
+    First      : Fri Feb 19 13:29:43 2016
+    Last       : Fri Feb 19 13:29:43 2016
+    Max Rate   : 54.0
+    Beacon     : -1
+    Packets    : 1
+    Encryption : None
+  Channel    : 0
+  Frequency  : 2422 - 19 packets, 95.00%
+  Frequency  : 2442 - 1 packets, 5.00%
+  Max Seen   : 1000
+  LLC        : 20
+  Data       : 0
+  Crypt      : 0
+  Fragments  : 0
+  Retries    : 0
+  Total      : 20
+  Datasize   : 0
+     Seen By : mon0 (mon0) 4446e22a-d6fa-11e5-8a74-a70323187a01 20 packets
+               Fri Feb 19 13:29:43 2016
